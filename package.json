@@ -1,0 +1,49 @@
+{
+  "name": "@inoueke-n/sairi-common",
+  "version": "0.6.0",
+  "description": "Fine-grained edit history collection platform: utility",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inoueke-n/sairi-common"
+  },
+  "main": "./lib/index.js",
+  "types": "./lib/types/index.d.ts",
+  "scripts": {
+    "test": "echo 'No test.'",
+    "build": "tsc -p .",
+    "prepare": "npm run build"
+  },
+  "files": [
+    "lib/"
+  ],
+  "contributors": [
+    {
+      "name": "Naoto Ishida"
+    },
+    {
+      "name": "Tetsuya Kanda"
+    }
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "folktale": "^3.0.1-ts",
+    "lodash": "^4.17.21",
+    "ramda": "^0.28.0",
+    "vscode-languageserver": "^8.0.2"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.11.10",
+    "@types/ramda": "^0.28.20",
+    "@typescript-eslint/eslint-plugin": "^5.45.0",
+    "@typescript-eslint/parser": "^5.45.0",
+    "eslint": "^8.28.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.0",
+    "typescript": "^4.9.3"
+  }
+}
