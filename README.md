@@ -38,7 +38,7 @@ A server module to store and load collected edit history.
 
 ### Related articles
 
-* Sentaro Onizuka, Tetsuya Kanda, Katsuro Inoue: "Comparison of Developer's Work Efficiency Between Different Editors", Proceedings of the 29th Asia-Pacific Software Engineering Conference (APSEC2022) Poster session, pp.572-573, Nov. 2022
+* Sentaro Onizuka, Tetsuya Kanda, Katsuro Inoue: "Comparison of Developer's Work Efficiency Between Different Editors", Proceedings of the 29th Asia-Pacific Software Engineering Conference (APSEC2022) Poster session, pp.572-573, Dec. 2022
 * (Japanese article) 石田 直人, 神田 哲也, 嶋利 一真, 井上 克郎: "言語サーバを応用した細粒度編集履歴収集プラットフォームの構想", ソフトウェアエンジニアリングシンポジウム2020 ワークショップ (SES 2020 WS5), 2020年9月
 
 ## Usage
